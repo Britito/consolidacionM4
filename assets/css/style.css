@@ -20,6 +20,11 @@ body {
 .blue{
     background-color: #87CEFA;
 }
+
+.alturaTarjeta{
+    height: 150px;
+    
+}
 @media only screen and (max-width: 575px) {
     .single-timeline-area {
         padding-left: 100px;
@@ -117,7 +122,7 @@ body {
     transition-duration: 500ms;
 }
 .single-timeline-area .single-timeline-content .timeline-text p {
-    font-size: 13px;
+    font-size: 15px;
     margin-bottom: 0;
 }
 .single-timeline-area .single-timeline-content:hover .timeline-icon,
